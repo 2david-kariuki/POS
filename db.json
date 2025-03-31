@@ -1,0 +1,16 @@
+[
+  {
+    "serial": "12345",
+    "barcode": "987654321",
+    "price": 10.99,
+    "location": "Aisle 3",
+    "stock": 50
+  },
+  {
+    "serial": "67890",
+    "barcode": "123456789",
+    "price": 15.49,
+    "location": "Aisle 7",
+    "stock": 30
+  }
+]
